@@ -1,0 +1,2 @@
+C:\Users\Maximus\source\repos\Dll2\x64\Debug\Dll2.pdb
+C:\Users\Maximus\source\repos\Dll2\Dll2\x64\Debug\Dll2.pdb
